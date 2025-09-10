@@ -8,10 +8,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Pursuing **B.E. Computer Science and Engineering** at **AVS Engineering College** (CGPA: 8.2)  
+- 🎓 Pursuing **B.E. Computer Science and Engineering**  
 - 💻 Strong foundation in **Java programming** and **Front-End Web Development (HTML, CSS, JavaScript)**  
-- 🌱 Currently learning **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
-- 🔐 Experienced with **Passport.js Authentication & CRUD Operations**  
+- 🌱 Currently learning **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
 - 🎯 Goal: To become a skilled **Full-Stack Developer** and contribute to impactful projects  
 - 📫 Reach me at **pravinahgs@gmail.com**  
 
