@@ -1,51 +1,52 @@
-<h1 align="center">Hey Everyone 👋, I'm Suriya</h1>
+<h1 align="center">Hey Everyone 👋, I'm Pravin AG</h1>
 
-<div align="center">
-  <img src="" alt="Banner">
-</div>
-
-<h3 align="center">A passionate Designer & Data Scientist from India. Currently studying my Bachelor degree in Artificial Intellegence & Data Science and in my free time I would like to Draw some portraits & Paintings </h3>
-
-<p align="center">
-  <a href="https://github.com/Suriya-Panneerselvam">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
-  </a>
- 
-  <a href="https://www.linkedin.com/in/suriya-panneerselvam-14b8322a1/">
-    <img src="" />
-  </a>
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://github.com/Suriya-Panneerselvam/Suriya-Panneerselvam/blob/main/Iron%20Man%20GIF.gif">
-
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/Suriya-Panneerselvam](https://github.com/Suriya-Panneerselvam)  
-- 💬 Ask me about **Java , Python & Machine Learning**  
-- 📫 How to reach me **suriyapanneerselvam12015@gmail.com**
+<h3 align="center">
+  A passionate Computer Science & Engineering Student from India 🇮🇳 <br>
+  Currently building my skills in <b>Full-Stack Development (MERN Stack)</b> 🚀
+</h3>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.instagram.com/suriya._.81/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/suriya-panneerselvam-14b8322a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+### 👨‍💻 About Me
+- 🎓 Pursuing **B.E. Computer Science and Engineering** at **AVS Engineering College** (CGPA: 8.2)  
+- 💻 Strong foundation in **Java programming** and **Front-End Web Development (HTML, CSS, JavaScript)**  
+- 🌱 Currently learning **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
+- 🔐 Experienced with **Passport.js Authentication & CRUD Operations**  
+- 🎯 Goal: To become a skilled **Full-Stack Developer** and contribute to impactful projects  
+- 📫 Reach me at **pravinahgs@gmail.com**  
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Skills & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://github.com/Suriya-Panneerselvam/Suriya-Panneerselvam/blob/main/numpy.png" width="40" height="40"/>
-  <img src="https://github.com/Suriya-Panneerselvam/Suriya-Panneerselvam/blob/main/pandas.svg" width="40" height="40"/>
-  <img src="https://github.com/Suriya-Panneerselvam/Suriya-Panneerselvam/blob/main/Scikit_learn_logo_small.svg.png" width="60" height="40"/>
-  <img src="https://github.com/Suriya-Panneerselvam/Suriya-Panneerselvam/blob/main/Visual_Studio_Code.png" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
+
+
+
 
 ---
 
-### 👨‍💼 About Me
-<h3 align="center">B.Tech Arificial Intelligence & Data Science Final year Student . Intrested in the domain of Designing & Data Science  &  Open to Collaboration</h3>
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/pravinag27" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="mailto:pravinahgs@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/919843342884" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wordpress-mobile/WhatsApp.svg" height="30" width="40" />
+  </a>
+</p>
