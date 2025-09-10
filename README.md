@@ -45,7 +45,4 @@
   <a href="mailto:pravinahgs@gmail.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="30" width="40" />
   </a>
-  <a href="https://wa.me/919843342884" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wordpress-mobile/WhatsApp.svg" height="30" width="40" />
-  </a>
 </p>
